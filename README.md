@@ -1,2 +1,2 @@
 # Initial
-This repository haves my most initial code collections
+This repository contains my most initial code collections
